@@ -1,0 +1,81 @@
+body{
+    font-family: "Sofia Sans";
+}
+#nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 11px 14px;
+}
+ul{
+    display: flex;
+    list-style-type: none ;
+    gap: 24px;  
+    color: #5C5F6E;  
+}
+img{
+    width: 140px;
+    height: 30x;
+}
+#part2 {
+    display: flex;
+    gap: 24px;
+}
+#part1{
+    display: flex;
+    align-items: center;
+}
+#button2{
+    border-radius: 20px ;
+    padding: 9px 23px;
+    font-weight: bold; 
+   color: white;
+    background-color: #651FFF;
+    border:0.25px ;
+    font-size: 16px;
+}
+#button {
+    border-radius: 20px ;
+    padding: 9px 23px;
+    font-weight: bold;
+    background-color: #ffff;
+    border: 2px solid black;
+    font-size: 16px;
+}
+#main {
+    display: flex;
+    margin: 0px 191px;
+    margin-top: 95px;
+    text-align: center;
+
+}
+.title {
+    font-size: 56px;
+    font-weight: bold;
+}
+#web {
+    color: #651FFF;
+}
+#description{
+    color: #5C5F6E;
+    display: flex;
+    font-size: 20px;
+    margin: 0px 200px;
+    margin-top: 20px;
+    text-align: center;
+}
+#buttons{
+    display: flex;
+    margin-top: 35px;
+    gap: 24px;
+    justify-content: center;
+}
+#img{
+    display: flex;
+    justify-content: center;
+    margin: top 50px;
+}
+#imgmain{
+    width: 1127px;
+    height: 769px;
+}
